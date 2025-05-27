@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Double",
+    "slug": "double-ai",
+    "version": "1.0.0",
+    "sdkVersion": "53.0.0",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.double.ai"
+    }
+  }
+}
